@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: PrestigeLDB
+## Author: Reilly
+## Notes: LibDataBroker to display PvP prestige
+## Version: 0.10
+
+lib\LibStub\LibStub.lua
+lib\CallbackHandler-1.0\CallbackHandler-1.0.lua
+lib\LibDataBroker-1.1\LibDataBroker-1.1.lua
+PrestigeLDB.lua
